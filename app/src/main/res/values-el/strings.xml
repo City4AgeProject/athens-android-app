@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nointernet">Οι διαδρομές σας θα αποθηκευτούν κεντρικά όταν ενεργοποιήσετε το internet</string>
+    <string name="about">Σχετικά</string>
+    <string name="routes_list">Αποθηκευμένες διαδρομές</string>
+    <string name="yes">Ναι</string>
+    <string name="weather">Καιρός</string>
+    <string name="title_activity_about">Σχετικά</string>
+    <string name="av_speed_lbl">Μέσ. Ταχύτητα (χλμ/ώρα)</string>
+    <string name="average_lbl">Μέση</string>
+    <string name="current_distance_lbl">Απόσταση</string>
+    <string name="current_lbl">Τρέχουσα</string>
+    <string name="current_speed_lbl">Ταχύτητα (χλμ/ώρα)</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="deleteConfirmMessage">Είστε σίγουροι ότι θέλετε να διαγράψετε την διαδρομή;</string>
+    <string name="max_speed">Μέγιστη</string>
+    <string name="max_speed_lbl">Μέγ. Ταχύτητα</string>
+    <string name="no">Όχι</string>
+    <string name="nolocation">Γίνεται αναζήτηση της τοποθεσίας σας. Ελέγξτε αν έχετε ενεργοποιήσει το GPS.</string>
+    <string name="notFound">Δεν βρέθηκε</string>
+    <string name="note"></string>
+    <string name="please_wait">Παρακαλώ περιμένετε</string>
+    <string name="routeSavedOnServerAndLocally">Η διαδρομή αποθηκεύτηκε</string>
+    <string name="routeSavedOnlyLocally">Η διαδρομή αποθηκεύτηκε μόνο στην συσκευή. Θα αποθηκευτεί κεντρικά όταν ενεργοποιήσετε το internet.</string>
+    <string name="routessavingfailed">Η αποθήκευση της διαδρομής απέτυχε</string>
+    <string name="routetrackingstarted">Η καταγραφή της διαδρομής ξεκίνησε</string>
+    <string name="timer_lbl">Χρόνος</string>
+    <string name="start">Ξεκίνα</string>
+    <string name="stop">Σταμάτα</string>
+    <string name="kmMovingOn">χλμ. διανύσατε στις</string>
+    <string name="minutes">λεπτά</string>
+</resources>

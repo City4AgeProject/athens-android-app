@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/play"
+        android:title="@string/start"
+        android:showAsAction="always"
+        android:icon="@drawable/play" />
+
+    <item android:id="@+id/list"
+        android:title="@string/list"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_list" />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_info"/>
+
+    <!--item android:id="@+id/weather"
+        android:title="@string/weather"
+        android:showAsAction="always"
+        android:icon="@drawable/weather" />
+
+    <item android:id="@+id/share"
+        android:title="@string/share"
+        android:showAsAction="always"
+        android:icon="@drawable/share" />
+
+    <item android:id="@+id/traffic"
+        android:title="@string/traffic"
+        android:showAsAction="always"
+        android:icon="@drawable/traffic" /-->
+
+    <item android:id="@+id/directions"
+        android:title="@string/action_directions"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_action_directions" />
+
+</menu>

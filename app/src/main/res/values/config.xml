@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- URLs -->
+    <string name="CITY4AGE_SERVICES_URL">http://c4amobile.atc.gr/backend/cityForAgeServices</string>
+
+    <!-- Route Tracking -->
+    <integer name="LOCATION_TRACKING_MIN_STEP">10</integer><!-- meters -->
+    <integer name="MOVEMENT_MAX_SPEED">25</integer><!-- meters/seconds -->
+    <integer name="LOCATION_TRACKING_AUTO_STOP_AFTER">120</integer><!-- minutes -->
+    <integer name="LOCATION_TRACKING_AUTO_START_AFTER">15</integer><!-- seconds -->
+
+</resources>
